@@ -36,3 +36,33 @@ I have used the GeoJSON file for the Plotting My state, Jhanrknad and WestBengal
 
 https://user-images.githubusercontent.com/39759685/133442766-e806be44-68ce-400c-880c-eb3856029c30.mp4
 
+## Professional bar plot
+
+
+
+https://user-images.githubusercontent.com/39759685/139533427-e6aacb37-99a5-4e23-86aa-a5766464cad0.mp4
+
+
+
+https://user-images.githubusercontent.com/39759685/139533430-193c4b1f-68c3-4e8c-ba23-dbd34e4e7e82.mp4
+
+
+
+https://user-images.githubusercontent.com/39759685/139533433-892314d5-b8aa-4e3f-9ec2-836dee515ef4.mp4
+
+
+
+https://user-images.githubusercontent.com/39759685/139533436-dcb86efc-42bb-4b8d-8ecf-cccf62b7d06c.mp4
+
+
+
+https://user-images.githubusercontent.com/39759685/139533439-f3523e24-1652-459a-8ac2-4e01c39e953e.mp4
+
+
+
+https://user-images.githubusercontent.com/39759685/139533440-b30c72cc-c45d-46e1-8570-a1e53f2da1c8.mp4
+
+
+
+
+
