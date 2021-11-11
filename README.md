@@ -1,6 +1,6 @@
 # Geoinformatics
-Contains project work of Geoinformatics
-Navigate to different folder to get a knowledge of each project
+Contains project work of Geoinformatics.
+Navigate to different folder to see different projects project
 
 - [Covid DashBoard](https://github.com/AslanDevbrat/Geoinformatics/tree/main/Covid%20Dashboard) <img src="https://media.giphy.com/media/Uv2o6s9vqd6F6jisSr/giphy.gif" height="10px" >
 - [Find River Junctions](https://github.com/AslanDevbrat/Geoinformatics/tree/main/Find%20Junctions)<img src="https://media.giphy.com/media/Uv2o6s9vqd6F6jisSr/giphy.gif" height="10px" >
